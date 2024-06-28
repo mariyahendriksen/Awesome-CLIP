@@ -34,15 +34,15 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 
 ### Information Retrieval
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
+- [Extending CLIP for Category-to-image Retrieval in E-commerce](https://arxiv.org/abs/2112.11294) [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
+- [A CLIP-Hitchhiker’s Guide to Long Video Retrieval](https://arxiv.org/pdf/2205.08508.pdf) [code]
+- [X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/pdf/2207.07285.pdf) [[code](https://github.com/xuguohai/X-CLIP)]
 - [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval](https://arxiv.org/abs/2104.08860) [[code](https://github.com/ArrowLuo/CLIP4Clip)]
 - [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) [[code](https://github.com/jayleicn/ClipBERT)]
 - Natural Language YouTube Search [[code](https://github.com/haltakov/natural-language-youtube-search)]
 - [CLIP-as-service: Embed images and sentences into fixed-length vectors with CLIP](https://github.com/jina-ai/clip-as-service/tree/main/docs) [[code](https://github.com/jina-ai/clip-as-service)]
 - clip-retrieval [[code](https://github.com/rom1504/clip-retrieval)]
-- [A CLIP-Hitchhiker’s Guide to Long Video Retrieval](https://arxiv.org/pdf/2205.08508.pdf) [code]
 - [CLIP2Video: Mastering Video-Text Retrieval via Image CLIP](https://arxiv.org/pdf/2106.11097.pdf) [[code](https://github.com/CryhanFang/CLIP2Video)]
-- [X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/pdf/2207.07285.pdf) [[code](https://github.com/xuguohai/X-CLIP)]
-- [Extending CLIP for Category-to-image Retrieval in E-commerce](https://mariyahendriksen.github.io/files/ecir22.pdf) [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
 
 ### Representation Learning 
 - [Wav2CLIP: Learning Robust Audio Representations From CLIP](https://arxiv.org/pdf/2110.11499.pdf) [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
